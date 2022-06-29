@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Zyabuka
-- 👀 I’m interested in C#, Lua and SQL
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m piece of feet
-- 📫 You can't reach me...
+Bruh, my works are trash! So, why are you here then?
+Because I wanna teach some program languages!
+Piece of feet
 
-<!---
-Don't make Zyabuka shy! You'll be blocked for it! He's works currently are trash.
- So, if u want support him, then you need sub to him...
---->
+Written by @Zyabuka!
+Support him or leave him alone
+(Don't follow him...)
